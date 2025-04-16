@@ -1,0 +1,12 @@
+const metrosForCM = require('./src/metrosForCM')
+const metrosForDAM = require('./src/metrosForDAM')
+const metrosForDM = require('./src/metrosForDM')
+const metrosForKM = require('./src/metrosForKM')
+const metrosForMM = require('./src/metrosForMM')
+
+console.log(metrosForCM(2))
+console.log(metrosForDM(2))
+console.log(metrosForDAM(2))
+console.log(metrosForKM(2))
+console.log(metrosForMM(2))
+console.log(metrosForCM('beta'))
