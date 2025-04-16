@@ -11,4 +11,8 @@ console.log(metrosForDAM(890))
 console.log(metrosForKM(30))
 console.log(metrosForMM(57))
 console.log(metrosForHM(1000))
+
+
 console.log(metrosForCM('beta'))
+console.log(metrosForHM('samuel'))
+console.log(metrosForKM('saruel'))
